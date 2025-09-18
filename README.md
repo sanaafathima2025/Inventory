@@ -1,3 +1,4 @@
+store manager documentation https://docs.google.com/document/d/1xxW7W6OqHbqQCn77Dk5EswbYCw6zUz7T/edit?usp=drivesdk&ouid=109440614757961561502&rtpof=true&sd=true 
 store manager demo link video https://drive.google.com/file/d/1-E6-Bf6IXjCR4ZrsSlm-xzPdpnLsNoxQ/view?usp=drivesdk
 # Getting Started with Create React App
 
